@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "MAU_CSE\\": "src/"
+            "MAU_CSE\\DotEnv\\": "src/"
         }
     }
 }

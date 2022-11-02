@@ -1,6 +1,6 @@
 <?php
 
-namespace MAU_CSE;
+namespace MAU_CSE\DotEnv;
 
 interface ProcessorInterface
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace MAU_CSE;
+namespace MAU_CSE\DotEnv;
 
-use MAU_CSE\ProcessorAbstract;
+use MAU_CSE\DotEnv\ProcessorAbstract;
 
 class QuotedStringProcessor extends ProcessorAbstract
 {

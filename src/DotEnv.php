@@ -1,10 +1,10 @@
 <?php
 
-namespace MAU_CSE;
+namespace MAU_CSE\DotEnv;
 
-use MAU_CSE\ProcessorAbstract;
-use MAU_CSE\BooleanProcessor;
-use MAU_CSE\QuotedStringProcessor;
+use MAU_CSE\DotEnv\ProcessorAbstract;
+use MAU_CSE\DotEnv\BooleanProcessor;
+use MAU_CSE\DotEnv\QuotedStringProcessor;
 
 class DotEnv
 {
