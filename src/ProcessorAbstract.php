@@ -1,6 +1,6 @@
 <?php
 
-namespace W3Programming;
+namespace MAU_CSE;
 
 abstract class ProcessorAbstract implements ProcessorInterface
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace W3Programming;
+namespace MAU_CSE;
 
-use W3Programming\ProcessorAbstract;
-use W3Programming\BooleanProcessor;
-use W3Programming\QuotedStringProcessor;
+use MAU_CSE\ProcessorAbstract;
+use MAU_CSE\BooleanProcessor;
+use MAU_CSE\QuotedStringProcessor;
 
 class DotEnv
 {

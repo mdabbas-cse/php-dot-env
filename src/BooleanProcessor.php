@@ -1,8 +1,8 @@
 <?php
 
-namespace W3Programming;
+namespace MAU_CSE;
 
-use W3Programming\ProcessorAbstract;
+use MAU_CSE\ProcessorAbstract;
 
 class BooleanProcessor extends ProcessorAbstract
 {

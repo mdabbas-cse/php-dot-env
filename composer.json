@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "W3Programming\\": "src/"
+            "MAU_CSE\\": "src/"
         }
     }
 }
