@@ -1,0 +1,16 @@
+{
+    "name": "bitcode-4/dot-env",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mdabbas-cse",
+            "email": "gmabbas44@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "W3Programming\\": "src/"
+        }
+    }
+}
